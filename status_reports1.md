@@ -6,6 +6,7 @@ Joseph
 * Menu
 * Finds location!
 * issue is file io
+
 To Do
 * find a way to make process run in background
 * compare two gps locations
@@ -16,6 +17,7 @@ Alan
 * Works now!
 * suite of puzzle games
 * working on game logic now
+
 To Do
 * drag out a line between dots
 * remove dots
@@ -32,6 +34,7 @@ To Do
 Ben
 ---
 * Plane that flies
+
 To Do
 * Direction
 * Move towards pointer
@@ -40,6 +43,7 @@ To Do
 Warren
 ------
 * History, Sports, Animals
+
 To Do
 * Other categories
 * Notifications
@@ -49,6 +53,7 @@ Vinayak
 -------
 * Analog Control, tank drives
 * button that shoots fireballs
+
 To Do
 * Animating Fireballs
 * Enemies/Collision Detection
@@ -56,6 +61,7 @@ To Do
 Noah
 ----
 * All code complete
+
 To Do
 * Test
 * Morse Code
